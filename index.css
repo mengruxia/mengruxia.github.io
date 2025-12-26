@@ -16,6 +16,11 @@ body{
     display: flex;
     justify-content: center;
     padding: auto;
+    flex-direction: column;
+}
+
+h1{
+    margin-bottom: 20px;
 }
 
 .input-group input{
